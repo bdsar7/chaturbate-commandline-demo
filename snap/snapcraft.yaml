@@ -1,0 +1,13 @@
+  # name: asaw2513
+  version: '0.1' # just for humans, typically '1.2+git' or '1.3.2'
+  summary:logs chat n shit
+  description: |
+    This is a app by paulallen87 to capture and display the chat on chaturbate, i just packaged it as a snap
+
+  grade: devel # stable
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  
